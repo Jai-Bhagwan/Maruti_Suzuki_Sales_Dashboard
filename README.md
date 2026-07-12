@@ -210,8 +210,8 @@ Through this project, I gained hands-on experience in:
 
 ### Connect with me
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
+- LinkedIn: [*(Add your LinkedIn URL)*](https://www.linkedin.com/in/jai-bhagwan-3a0891214/)
+- GitHub:[ *(Add your GitHub URL)*](https://github.com/Jai-Bhagwan)
 
 ---
 
