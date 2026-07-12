@@ -49,11 +49,11 @@ Maruti-Suzuki-Sales-Dashboard/
 
 ### Dashboard Overview
 
-![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Images/Dashboard-overview.png)
 
 ### Sales & Revenue Analysis
 
-![Sales Analysis](Images/dashboard-charts.png)
+![Sales Analysis](Images/Dashboard-charts.png)
 
 ---
 
